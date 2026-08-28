@@ -2,7 +2,7 @@
 
 A 4-page Power BI dashboard analysing a banking dataset of 1,651 accounts, 720 customers, 330 loans, 49,500 transactions, and 50 branches — built on a star-schema semantic model with 38 DAX measures organised into display folders and three role-playing date tables.
 
-![Dashboard Preview](images/00-dashboard-preview.png)
+![Dashboard Preview](image/00-dashboard-preview.png)
 
 ## Overview
 
@@ -37,16 +37,16 @@ Star schema with five fact/dimension tables (`accounts`, `customers`, `loans`, `
 ## Screenshots
 
 **Executive Overview**
-![Executive Overview](images/01-executive-overview.png)
+![Executive Overview](image/01-executive-overview.png)
 
 **Customer & Account Analysis**
-![Customer & Account Analysis](images/02-customer-account-analysis.png)
+![Customer & Account Analysis](image/02-customer-account-analysis.png)
 
 **Loan Analysis**
-![Loan Analysis](images/03-loan-analysis.png)
+![Loan Analysis](image/03-loan-analysis.png)
 
 **Transactions & Branches**
-![Transactions & Branches](images/04-transactions-branches.png)
+![Transactions & Branches](image/04-transactions-branches.png)
 
 ## Key Insights
 
